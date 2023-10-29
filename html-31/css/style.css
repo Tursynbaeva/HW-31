@@ -1,0 +1,25 @@
+
+* {
+    box-sizing: border-box;
+}
+
+.block {
+    background: #937f99;
+}
+
+.inline {
+    background: #aa8cb3;
+}
+
+.block{
+    padding: 10px 5px 10px 6px;
+    margin: 1px 5px 10px 6px;
+    border: 10px double #000;
+    border-radius: 30px;
+}
+
+.img {
+    border: 10px double #9f4949;
+    border-radius: 50px;
+}
+
